@@ -1,0 +1,18 @@
+{
+  "name":               "bluemix-twilio-trivia",
+  "main":               "./lib/bluemix-twilio-trivia",
+  "description":        "A trivia game using twilio for Bluemix",
+  "version":            "0.1.0",
+  "license":            "Apache-2.0",
+  "repository": {
+    "type":             "git",
+    "url":              "https://github.com/pmuellr/bluemix-twilio-trivia.git"
+  },
+  "dependencies": {
+    "cfenv":            "0.2.x",
+    "express":          "4.5.x",
+    "q":                "1.0.x",
+    "twilio":           "1.6.x",
+    "underscore":       "1.6.x"
+  }
+}

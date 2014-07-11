@@ -1,0 +1,9 @@
+{
+  "name":         "Twilio",
+  "label":        "user-provided",
+  "credentials": {
+    "url":        "https://api.twilio.com",
+    "accountSID": "account SID goes here",
+    "authToken":  "auth token goes here"
+  }
+}

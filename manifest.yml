@@ -1,0 +1,9 @@
+---
+applications:
+- name:      textin-trivia
+  host:      textin-trivia
+  memory:    128M
+  instances: 1
+  command:   node server
+  services:
+  - Twilio
